@@ -30,7 +30,6 @@ Object Oriented Programming/
 │   ├── Inheritance/
 │   └── Multilevel Inheritance and Access Control/
 │
-├── .gitignore
 └── README.md
 ```
 
