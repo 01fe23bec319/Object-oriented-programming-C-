@@ -51,7 +51,6 @@ Exercises covering core C++ syntax, console input and output, data types, string
 | `rectangle_area.cpp`                 | Computing a rectangle’s area from user-provided dimensions    |
 | `largest_in_list.cpp`                | Identifying the largest value in a collection of numbers      |
 | `string_length.cpp`                  | Determining string length using C-style and C++-style strings |
-| `c_string_palindrome.cpp`            | Checking whether a C-style string is a palindrome             |
 | `cpp_string_palindrome_practice.cpp` | Incomplete exercise on palindrome checking with a C++ string  |
 | `pass_by_value.cpp`                  | Demonstrating argument passing by value                       |
 | `pass_by_reference.cpp`              | Demonstrating argument passing by reference                   |
